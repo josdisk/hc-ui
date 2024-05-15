@@ -8,6 +8,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenshot: 
+![image](https://github.com/josdisk/hc-ui/assets/76454942/5fb35853-fcbc-4178-b38d-8ec3aa842f49)
+
 ## Available Scripts
 
 In the project directory, you can run:
